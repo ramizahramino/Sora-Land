@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl:  /sora-land
+exclude: ['README.md']
